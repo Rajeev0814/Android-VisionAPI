@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-2937e1c9bf8d98d3861d29fee3fd6e9fad2cab5d.jar" />
+    </item>
+    <item
+        jar="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/pre-dexed/debug/classes-96f0e2e9bc6511ec2c75131f921117d1f846d8a4.jar" />
+    </item>
+    <item
+        jar="/home/decimal/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-dd3ed7062ba4968742aa65a1aed5f424bc2ff615.jar" />
+    </item>
+    <item
+        jar="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/pre-dexed/debug/classes-8385f42c7250fbb66ab5f8ee8f89aad04e21fde3.jar" />
+    </item>
+    <item
+        jar="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/pre-dexed/debug/classes-a66e50a773c3e9e43eabe95a5b709bd097388f56.jar" />
+    </item>
+    <item
+        jar="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/pre-dexed/debug/classes-80c006e23b1147c04d91902586742d770dc4a666.jar" />
+    </item>
+    <item
+        jar="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/pre-dexed/debug/classes-32a650726ca69cdfb9f9ead1bbc4f56feb123427.jar" />
+    </item>
+    <item
+        jar="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/pre-dexed/debug/classes-d882181f4c1f6cd777daa6525193ceb0c59029c2.jar" />
+    </item>
+    <item
+        jar="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/pre-dexed/debug/classes-49b5ba7d4823c7087f20bab583491fe535248c25.jar" />
+    </item>
+    <item
+        jar="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/pre-dexed/debug/classes-0a1d06150d233f8b41fb198b5d24febd0fae3784.jar" />
+    </item>
+    <item
+        jar="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/pre-dexed/debug/classes-212af902807f4ab4f52a59ff35dbc745cea228b9.jar" />
+    </item>
+    <item
+        jar="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-be159a00d04ae9506d83eee791421ffabe755cc8.jar" />
+    </item>
+    <item
+        jar="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/pre-dexed/debug/classes-edf73cccc97973669fa41a9529e0457b70bbc3d3.jar" />
+    </item>
+    <item
+        jar="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/pre-dexed/debug/classes-d7b8bd804e6ccf01c3044e02146d52aeea4000c8.jar" />
+    </item>
+    <item
+        jar="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/pre-dexed/debug/classes-15c1a21b3fc08dd9ab1ce50b759b3a3d5239721a.jar" />
+    </item>
+    <item
+        jar="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/pre-dexed/debug/classes-bb3302e4e3fc046c4ba9939df548b7c80a6a5741.jar" />
+    </item>
+    <item
+        jar="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/pre-dexed/debug/classes-c1435c0ed1f6c1e71b3e6810288c0f9c80327843.jar" />
+    </item>
+    <item
+        jar="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/pre-dexed/debug/classes-4152b2a98d5f28a8ef33af60c27f185b4f79db98.jar" />
+    </item>
+    <item
+        jar="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/pre-dexed/debug/classes-166fb8a24cb01a6d6a396330dbe1c05a27e25ca3.jar" />
+    </item>
+    <item
+        jar="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/pre-dexed/debug/classes-9d2cff3fe891222a18e6714b37f47a94da9e92cf.jar" />
+    </item>
+    <item
+        jar="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/pre-dexed/debug/classes-d0097ddabf6e2c2c19bb4d784bd0ff112808d178.jar" />
+    </item>
+    <item
+        jar="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/pre-dexed/debug/classes-24d800f82b9439dd48bf800b74718a9538a6cdd8.jar" />
+    </item>
+    <item
+        jar="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/pre-dexed/debug/classes-bbd9bd014701f9426f60a5d8cea30f2dafeb6d71.jar" />
+    </item>
+    <item
+        jar="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/pre-dexed/debug/classes-4bb28296bed38cc659af9070465309dd6095cdf7.jar" />
+    </item>
+    <item
+        jar="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/pre-dexed/debug/classes-2eab72c746c811eabb3f0c175629ed8cd50b75d6.jar" />
+    </item>
+    <item
+        jar="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/pre-dexed/debug/classes-73170da6520995527ce2ff45a3406a007d8f86f9.jar" />
+    </item>
+    <item
+        jar="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="/home/decimal/Downloads/Android-VisionAPI/app/build/intermediates/pre-dexed/debug/classes-90da285883c98efdb8f31e4bfccffbedecb26305.jar" />
+    </item>
+
+</items>
